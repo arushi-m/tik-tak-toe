@@ -1,0 +1,14 @@
+.winner
+{
+	color:green;
+}
+.alert
+{
+	color:red;
+}
+td
+{
+	width:100px;
+	height:100px;
+	background:pink;
+}
